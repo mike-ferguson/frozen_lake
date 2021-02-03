@@ -1,1 +1,4 @@
-ReadMe
+This file was created by Dr. Per Sederberg as part of a project within the PSYC 5330 Gradtute Course entitled Quantified Cogntion
+
+In this notebook, there are various solutions to OpenAI's Frozen Lake problem, a classic Reinforcement Learning problem. In it, I have created multiple different RL policies to test 
+for the best one, with a policy in the end solving the problem. 
